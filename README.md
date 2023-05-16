@@ -16,6 +16,7 @@ A curated list of awesome resources, tools, and tutorials for web development. T
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Design and Prototyping](#design-and-prototyping)
+- [SEO](#seo)
 - [Blogs and Newsletters](#blogs-and-newsletters)
 
 ## HTML
@@ -106,6 +107,15 @@ A curated list of awesome resources, tools, and tutorials for web development. T
 - [Sketch](https://www.sketch.com/) - A vector graphics editor for designing user interfaces.
 - [Adobe XD](https://www.adobe.com/products/xd.html) - A vector-based design and prototyping tool.
 - [InVision](https://www.invisionapp.com/) - A digital product design platform for prototyping and collaboration.
+
+## SEO
+
+- [Google Search Console](https://search.google.com/search-console) - Monitor and optimize your website's presence in Google Search results.
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze and optimize your website's performance for better search rankings.
+- [Moz](https://moz.com/) - Resources, tools, and guides for SEO and online marketing.
+- [SEMrush](https://www.semrush.com/) - All-in-one SEO platform with tools for keyword research, site auditing, and more.
+- [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - A popular WordPress plugin for optimizing your website's SEO.
+- [Backlinko](https://backlinko.com/) - SEO training and strategies for improving your website's search visibility.
 
 ## Blogs and Newsletters
 
