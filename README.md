@@ -17,6 +17,7 @@ A curated list of awesome resources, tools, and tutorials for web development. T
 - [Deployment](#deployment)
 - [Design and Prototyping](#design-and-prototyping)
 - [SEO](#seo)
+- [Tutorials](#tutorials)
 - [Blogs and Newsletters](#blogs-and-newsletters)
 
 ## HTML
@@ -116,6 +117,55 @@ A curated list of awesome resources, tools, and tutorials for web development. T
 - [SEMrush](https://www.semrush.com/) - All-in-one SEO platform with tools for keyword research, site auditing, and more.
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - A popular WordPress plugin for optimizing your website's SEO.
 - [Backlinko](https://backlinko.com/) - SEO training and strategies for improving your website's search visibility.
+
+## Tutorials
+- [MDN Web Docs Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials) - In-depth tutorials on various web development topics by MDN Web Docs.
+- [freeCodeCamp](https://www.freecodecamp.org/) - A platform with interactive coding tutorials and projects for web development.
+- [Codecademy](https://www.codecademy.com/) - Learn to code interactively with courses on web development and programming.
+
+### Tutorials: HTML, CSS and JavaScript
+- [MDN Web Docs HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) - Beginner-friendly tutorial series for learning HTML.
+- [MDN Web Docs CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) - Comprehensive tutorials on CSS, covering both basics and advanced concepts.
+- [JavaScript.info](https://javascript.info/) - In-depth tutorials on JavaScript, starting from the fundamentals to advanced topics.
+- [W3Schools](https://www.w3schools.com/) - Online web development tutorials covering HTML, CSS, JavaScript, and more.
+- [CSS-Tricks](https://css-tricks.com/) - Articles and tutorials on CSS techniques and best practices.
+- [JavaScript30](https://javascript30.com/) - A free 30-day vanilla JavaScript coding challenge with tutorial videos.
+
+### Tutorials: JavaScript Frameworks
+- [React.js Official Tutorial](https://reactjs.org/tutorial/tutorial.html) - Official tutorial for learning React.js, a popular JavaScript library for building user interfaces.
+- [Vue.js Guide](https://vuejs.org/v2/guide/) - Comprehensive guide for learning Vue.js, a progressive JavaScript framework.
+- [Angular Tour of Heroes](https://angular.io/tutorial) - Step-by-step tutorial for building an Angular application, focusing on the "Tour of Heroes" project.
+
+### Tutorials: UI/UX Design
+
+- [DesignCourse](https://www.youtube.com/c/DesignCourse) - YouTube channel with tutorials on UI/UX design, web design, and front-end development.
+- [Adobe XD Beginner Tutorial](https://www.youtube.com/watch?v=UhX9ZxSJyUA) - Beginner-friendly tutorial for learning Adobe XD, a design and prototyping tool.
+- [Figma Tutorial for Beginners](https://www.youtube.com/watch?v=FK4YusHIIj0) - Tutorial series on using Figma, a collaborative interface design tool.
+- [CSS Animation Tutorial](https://www.youtube.com/watch?v=JB7dWU7dyuQ) - Tutorial on creating CSS animations using keyframes and transitions.
+
+
+
+### Tutorials: Back-End Development
+
+- [Node.js Tutorials](https://nodejs.dev/) - Official Node.js tutorials covering various aspects of back-end development.
+- [Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - A crash course video tutorial on building a RESTful API with Express.js.
+- [Django for Beginners](https://djangoforbeginners.com/) - A beginner-friendly tutorial series for learning Django web framework.
+- [Ruby on Rails Guides](https://guides.rubyonrails.org/) - Official guides providing comprehensive tutorials for Ruby on Rails.
+- [Laravel Documentation](https://laravel.com/docs) - Official documentation with tutorials for building web applications with Laravel.
+- [Spring Boot Documentation](https://spring.io/projects/spring-boot#learn) - Official documentation providing tutorials and guides for Spring Boot.
+- [Spring Boot Quick Start](https://spring.io/quickstart) - A quick start guide to building a Spring Boot application.
+- [Spring Boot and React CRUD](https://www.callicoder.com/spring-boot-react-crud-example/) - Tutorial on building a full-stack CRUD application using Spring Boot and React.
+- [Spring Boot and Angular CRUD](https://www.javaguides.net/2021/05/spring-boot-angular-11-crud-example-tutorial.html) - Step-by-step guide for building a CRUD application with Spring Boot and Angular.
+- [Spring Boot REST API](https://www.baeldung.com/spring-boot-rest-api-tutorial) - Tutorial series on building a RESTful API with Spring Boot.
+
+### Tutorials: Database
+
+- [MongoDB University](https://university.mongodb.com/) - Free online courses on MongoDB database and data modeling.
+- [MySQL Tutorial](https://www.mysqltutorial.org/) - Tutorials and guides for learning MySQL database management system.
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - A comprehensive tutorial for learning PostgreSQL database.
+- [Spring Data JPA with MySQL](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa) - Tutorial on using Spring Data JPA with MySQL database.
+- [Spring Data MongoDB](https://www.baeldung.com/spring-data-mongodb-tutorial) - Guide to using Spring Data MongoDB for working with MongoDB database.
+
 
 ## Blogs and Newsletters
 
